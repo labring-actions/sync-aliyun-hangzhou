@@ -1,0 +1,10 @@
+docker.io:
+  images:
+    labring/bitnami-minio: []
+    labring/docker-kuboard: []
+    labring/kafka-operator: []
+    labring/kyverno: []
+    labring/nfs-subdir-external-provisioner: []
+    labring/sriov-network-operator: []
+    labring/tidb-operator: []
+  tls-verify: false

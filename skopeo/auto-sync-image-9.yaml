@@ -1,0 +1,10 @@
+docker.io:
+  images:
+    labring/argocd: []
+    labring/bitnami-etcd: []
+    labring/bitnami-mongodb: []
+    labring/ceph-csi-rbd: []
+    labring/elastic: []
+    labring/higress: []
+    labring/kustomize: []
+  tls-verify: false

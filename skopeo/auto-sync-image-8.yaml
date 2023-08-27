@@ -1,0 +1,11 @@
+docker.io:
+  images:
+    labring/apisix: []
+    labring/cert-manager: []
+    labring/deepflow: []
+    labring/gitlab-operator: []
+    labring/kube-state-metrics: []
+    labring/kubevela: []
+    labring/telepresence: []
+    labring/uptime-kuma: []
+  tls-verify: false

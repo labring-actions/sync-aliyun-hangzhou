@@ -1,0 +1,10 @@
+docker.io:
+  images:
+    labring/fluent-bit: []
+    labring/gitea: []
+    labring/kubeblocks: []
+    labring/openebs-lvm: []
+    labring/promtail: []
+    labring/skywalking: []
+    labring/tekton: []
+  tls-verify: false

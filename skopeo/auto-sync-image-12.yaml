@@ -1,0 +1,10 @@
+docker.io:
+  images:
+    labring/docker-adminer: []
+    labring/gitlab: []
+    labring/kafka-exporter: []
+    labring/longhorn: []
+    labring/memcached: []
+    labring/neuvector-docker: []
+    labring/traefik: []
+  tls-verify: false
