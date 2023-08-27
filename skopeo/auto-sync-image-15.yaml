@@ -1,0 +1,10 @@
+docker.io:
+  images:
+    labring/bitnami-mysql: []
+    labring/contour: []
+    labring/crunchy-postgres-operator: []
+    labring/docker-cni-plugins: []
+    labring/k9s: []
+    labring/kube-prometheus-stack: []
+    labring/loki-stack: []
+  tls-verify: false

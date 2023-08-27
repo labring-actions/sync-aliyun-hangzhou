@@ -1,0 +1,11 @@
+docker.io:
+  images:
+    labring/flink-kubernetes-operator: []
+    labring/jenkins: []
+    labring/karmada: []
+    labring/lvscare: []
+    labring/nextcloud: []
+    labring/openebs: []
+    labring/openebs-mayastor: []
+    labring/zot-upload: []
+  tls-verify: false

@@ -1,0 +1,11 @@
+docker.io:
+  images:
+    labring/calico: []
+    labring/chaos-mesh-crio: []
+    labring/cilium: []
+    labring/iomesh: []
+    labring/neuvector: []
+    labring/rancher: []
+    labring/wordpress: []
+    labring/zadig: []
+  tls-verify: false

@@ -1,0 +1,10 @@
+docker.io:
+  images:
+    labring/bitnami-zookeeper: []
+    labring/golang-vim-dev: []
+    labring/grafana: []
+    labring/harbor: []
+    labring/local-path-provisioner: []
+    labring/minio: []
+    labring/nginx: []
+  tls-verify: false

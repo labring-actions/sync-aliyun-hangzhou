@@ -1,0 +1,10 @@
+docker.io:
+  images:
+    labring/bitnami-redis-cluster: []
+    labring/flannel: []
+    labring/fluent-operator-containerd: []
+    labring/openebs-jiva: []
+    labring/openim: []
+    labring/sonarqube: []
+    labring/zalando-postgres-operator: []
+  tls-verify: false
