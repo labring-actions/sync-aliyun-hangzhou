@@ -15,3 +15,4 @@ set secret for action:
 经过测试sync两个600M镜像大概50s
 
 修改 generator的`reviewers: cuisongliu` 改成对应的reviewer
+修改 committer和author  成自己的账号即可
